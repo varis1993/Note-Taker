@@ -1,1 +1,27 @@
-[{"title":"Monday","text":"Go to school","id":1},{"title":"Tuesday","text":"Go to work","id":2},{"title":"Wednesday ","text":"Go to gym","id":3},{"title":"Thurdsday","text":"Grocery shopping","id":4},{"title":"Friday","text":"Relax","id":5}]
+[
+  {
+    "title": "Monday",
+    "text": "Go to school",
+    "id": 1
+  },
+  {
+    "title": "Tuesday",
+    "text": "Go to work",
+    "id": 2
+  },
+  {
+    "title": "Wednesday ",
+    "text": "Go to gym",
+    "id": 3
+  },
+  {
+    "title": "Thurdsday",
+    "text": "Grocery shopping",
+    "id": 4
+  },
+  {
+    "title": "Friday",
+    "text": "Relax",
+    "id": 5
+  }
+]
