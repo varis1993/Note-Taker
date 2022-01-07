@@ -17,6 +17,6 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 <img src="Note-Taker.jpg">
 
 ## Application Link
-http://localhost:5000/notes
+<p><a href="http://localhost:5000/">Note Taker</a></p>
 
 
