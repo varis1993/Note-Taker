@@ -10,7 +10,7 @@ app.use(express.json());
 app.use('/api', apiRoutes);
 app.use('/', htmlRoutes);
 
-app.listen(5000, () => {
-    console.log(`API server now on port 5000!`);
-  });
+app.listen(PORT, () => {
+  console.log(`API server now on port ${PORT}!`);
+});
 module.exports = app;
